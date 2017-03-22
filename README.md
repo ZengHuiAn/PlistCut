@@ -7,6 +7,8 @@ PlistCut
 macos
 * 1.安装Python 2.7
 * 2.安装python PIL库
+http://effbot.org/media/downloads/Imaging-1.1.7.tar.gz
+python setup.py install
 ------
 
 使用方法
