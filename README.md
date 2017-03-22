@@ -10,8 +10,8 @@ macos
 ------
 安装pil
 -----
-http://effbot.org/media/downloads/Imaging-1.1.7.tar.gz
-python setup.py install
+* http://effbot.org/media/downloads/Imaging-1.1.7.tar.gz
+* python setup.py install
 -----
 
 
