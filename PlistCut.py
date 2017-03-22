@@ -7,10 +7,6 @@ import sys
 import xml.dom.minidom
 import json
 import sys
-import xml.dom.minidom
-import os
-import re
-import json
 import string
 from biplist import *
 from PIL import Image
