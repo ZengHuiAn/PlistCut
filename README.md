@@ -4,12 +4,12 @@ PlistCut
 
 依赖环境
 -----
-#macos
+macos
 * 1.安装Python 2.7
 * 2.安装python PIL库
 ------
 
-#使用方法
+使用方法
 -----
 - eg:如系统/home/user/guest/ 目录下面有 test.png 和 test.plist
 - `
