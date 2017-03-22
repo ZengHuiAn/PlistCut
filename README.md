@@ -2,9 +2,9 @@ PlistCut
 ==============
 可以将TexturePackage 打包成的图集，拆成打包之前的碎图
 
-#依赖环境
+依赖环境
 -----
-####macos
+#macos
 * 1.安装Python 2.7
 * 2.安装python PIL库
 ------
